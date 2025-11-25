@@ -1,2 +1,5 @@
 .venv
 unsloth_compiled_cache/
+wandb/
+.ipynb_checkpoints
+.vscode
