@@ -23,8 +23,8 @@ This repository contains code for fine-tuning the Gemma-3 model using Unsloth an
    git clone https://github.com/Romaiz/Gemma3-Unsloth.git
    ```
 2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+   ```
+   Unsloth removes your pre-installed torch installation for an updated torch version. You will have to remove this version and install torch again with cuda for GPU accleration to work.
    ```
 3. Run the notebook `Notebook.ipynb` to start fine-tuning.
 
