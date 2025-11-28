@@ -3,3 +3,6 @@ unsloth_compiled_cache/
 wandb/
 .ipynb_checkpoints
 .vscode
+outputs/
+gemma-3-1b-finetuned/
+gemma-3-1b-finetuned-unsloth/
